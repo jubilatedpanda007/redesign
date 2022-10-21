@@ -1,0 +1,44 @@
+body {
+    font-family: "Sofia-Pro", sans-serif;
+    background-color: #f5f5ee;
+  }
+
+.section {
+    padding: 2rem 0 7rem;
+}
+
+.cvs-bg {
+    background-color: #cc0200;
+}
+
+.cvs-text {
+    color: #cc0200;
+}
+
+.custom-navbar {
+    background-color: #f26622;
+}
+
+.custom-footer {
+    background-color: #f5f5ee;
+    color: #fff;
+    padding: 2rem 0;
+}
+
+.dark-bg {
+    background-color: #d4d4cd;
+}
+
+/* on hover make expand */
+.site:hover {
+    transform: scale(1.05);
+    transition: 0.5s;
+}
+
+/* make Y Combinator orange, bold, and underline */
+.topic {
+    color: #f26622;
+    font-weight: bold;
+    text-decoration: underline;
+}
+  
